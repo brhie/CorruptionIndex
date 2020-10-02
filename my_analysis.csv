@@ -1,0 +1,177 @@
+,Country,Region,GI,CPI,ULT
+0,New Zealand,Asia Pacific,83,90,86.5
+1,Denmark,Europe and Central Asia,83,90,86.5
+2,Finland,Europe and Central Asia,83,89,86.0
+3,Sweden,Europe and Central Asia,83,88,85.5
+4,Switzerland,Europe and Central Asia,83,86,84.5
+5,Norway,Europe and Central Asia,83,85,84.0
+6,Singapore,Asia Pacific,83,84,83.5
+7,Netherlands,Europe and Central Asia,83,83,83.0
+8,Canada,Americas,83,82,82.5
+10,Luxembourg,Europe and Central Asia,83,81,82.0
+9,Germany,Europe and Central Asia,83,81,82.0
+12,Australia,Asia Pacific,83,79,81.0
+13,Iceland,Europe and Central Asia,83,78,80.5
+14,Hong Kong,Asia Pacific,83,77,80.0
+15,Belgium,Europe and Central Asia,83,77,80.0
+11,United Kingdom,Europe and Central Asia,71,81,76.0
+16,Austria,Europe and Central Asia,71,75,73.0
+17,The United States of America,Americas,71,74,72.5
+18,Ireland,Europe and Central Asia,71,73,72.0
+19,Japan,Asia Pacific,71,72,71.5
+21,Estonia,Europe and Central Asia,71,70,70.5
+22,France,Europe and Central Asia,71,69,70.0
+26,Bhutan,Asia Pacific,71,65,68.0
+31,Taiwan,Asia Pacific,71,61,66.0
+30,Barbados,Americas,71,61,66.0
+33,Slovenia,Europe and Central Asia,71,61,66.0
+20,Uruguay,Americas,59,71,65.0
+41,Brunei,Asia Pacific,71,58,64.5
+24,Chile,Americas,59,66,62.5
+23,Bahamas,Americas,59,66,62.5
+27,Israel,Middle East and North Africa,59,64,61.5
+28,Poland,Europe and Central Asia,59,62,60.5
+29,Portugal,Europe and Central Asia,59,62,60.5
+35,Saint Vincent and The Grenadines,Americas,59,60,59.5
+36,Botswana,Sub-Saharan Africa,59,60,59.5
+37,Dominica,Americas,59,59,59.0
+38,Cape Verde,Sub-Saharan Africa,59,59,59.0
+39,Lithuania,Europe and Central Asia,59,59,59.0
+40,Costa Rica,Americas,59,58,58.5
+42,Spain,Europe and Central Asia,59,58,58.5
+44,Latvia,Europe and Central Asia,59,57,58.0
+48,Malta,Europe and Central Asia,59,55,57.0
+47,Czech Republic,Europe and Central Asia,59,55,57.0
+25,United Arab Emirates,Middle East and North Africa,47,66,56.5
+49,Mauritius,Sub-Saharan Africa,59,54,56.5
+50,Rwanda,Sub-Saharan Africa,59,54,56.5
+52,Namibia,Sub-Saharan Africa,59,52,55.5
+53,Slovakia,Europe and Central Asia,59,51,55.0
+54,Malaysia,Asia Pacific,59,49,54.0
+32,Qatar,Middle East and North Africa,47,61,54.0
+57,Hungary,Europe and Central Asia,59,48,53.5
+34,Saint Lucia,Americas,47,60,53.5
+58,Romania,Europe and Central Asia,59,48,53.5
+60,Italy,Europe and Central Asia,59,47,53.0
+43,Georgia,Europe and Central Asia,47,57,52.0
+45,Grenada,Americas,47,56,51.5
+46,Cyprus,Europe and Central Asia,47,55,51.0
+51,Korea (South),Asia Pacific,47,53,50.0
+85,Lesotho,Sub-Saharan Africa,59,39,49.0
+55,Croatia,Europe and Central Asia,47,49,48.0
+59,Cuba,Americas,47,47,47.0
+62,Sao Tome and Principe,Sub-Saharan Africa,47,46,46.5
+66,Senegal,Sub-Saharan Africa,47,45,46.0
+67,South Africa,Sub-Saharan Africa,47,45,46.0
+64,Montenegro,Europe and Central Asia,47,45,46.0
+65,Oman,Middle East and North Africa,47,45,46.0
+68,Greece,Europe and Central Asia,47,44,45.5
+71,Solomon Islands,Asia Pacific,47,42,44.5
+72,Serbia,Europe and Central Asia,47,42,44.5
+73,Burkina Faso,Sub-Saharan Africa,47,42,44.5
+76,Tunisia,Middle East and North Africa,47,41,44.0
+74,Turkey,Europe and Central Asia,47,41,44.0
+78,Brazil,Americas,47,40,43.5
+81,Belarus,Europe and Central Asia,47,40,43.5
+79,China,Asia Pacific,47,40,43.5
+83,Albania,Europe and Central Asia,47,39,43.0
+84,Bosnia and Herzegovina,Europe and Central Asia,47,39,43.0
+87,Mongolia,Asia Pacific,47,38,42.5
+86,Panama,Americas,47,38,42.5
+89,Colombia,Americas,47,37,42.0
+96,Maldives,Asia Pacific,47,36,41.5
+98,Kosovo,Europe and Central Asia,47,36,41.5
+56,Jordan,Middle East and North Africa,34,48,41.0
+110,Côte d’Ivoire,Sub-Saharan Africa,47,34,40.5
+118,Togo,Sub-Saharan Africa,47,32,39.5
+63,Suriname,Americas,34,45,39.5
+128,Djibouti,Sub-Saharan Africa,47,30,38.5
+126,Azerbaijan,Europe and Central Asia,47,30,38.5
+70,Ghana,Sub-Saharan Africa,34,43,38.5
+69,Bahrain,Middle East and North Africa,34,43,38.5
+77,Bulgaria,Europe and Central Asia,34,41,37.5
+75,Kuwait,Middle East and North Africa,34,41,37.5
+80,India,Asia Pacific,34,40,37.0
+82,Jamaica,Americas,34,39,36.5
+88,Zambia,Sub-Saharan Africa,34,38,36.0
+93,Liberia,Sub-Saharan Africa,34,37,35.5
+92,Morocco,Middle East and North Africa,34,37,35.5
+91,The FYR of Macedonia,Europe and Central Asia,34,37,35.5
+152,Comoros,Sub-Saharan Africa,47,24,35.5
+90,Indonesia,Asia Pacific,34,37,35.5
+94,Argentina,Americas,34,36,35.0
+97,Sri Lanka,Asia Pacific,34,36,35.0
+99,Benin,Sub-Saharan Africa,34,36,35.0
+105,Gabon,Sub-Saharan Africa,34,35,34.5
+106,Niger,Sub-Saharan Africa,34,35,34.5
+104,Timor-Leste,Asia Pacific,34,35,34.5
+102,Philippines,Asia Pacific,34,35,34.5
+101,Trinidad and Tobago,Americas,34,35,34.5
+100,Peru,Americas,34,35,34.5
+61,Saudi Arabia,Middle East and North Africa,22,46,34.0
+107,Guyana,Americas,34,34,34.0
+111,Ethiopia,Sub-Saharan Africa,34,34,34.0
+114,Armenia,Europe and Central Asia,34,33,33.5
+113,Vietnam,Asia Pacific,34,33,33.5
+112,Bolivia,Americas,34,33,33.5
+115,Pakistan,Asia Pacific,34,32,33.0
+116,Mali,Sub-Saharan Africa,34,32,33.0
+119,Dominican Republic,Americas,34,31,32.5
+121,Malawi,Sub-Saharan Africa,34,31,32.5
+127,Moldova,Europe and Central Asia,34,30,32.0
+129,Sierra Leone,Sub-Saharan Africa,34,30,32.0
+125,Laos,Asia Pacific,34,30,32.0
+123,Mexico,Americas,34,30,32.0
+132,Russia,Europe and Central Asia,34,29,31.5
+130,Nepal,Asia Pacific,34,29,31.5
+133,Ukraine,Europe and Central Asia,34,29,31.5
+134,Iran,Middle East and North Africa,34,29,31.5
+131,Kazakhstan,Europe and Central Asia,34,29,31.5
+146,Cameroon,Sub-Saharan Africa,34,26,30.0
+149,Madagascar,Sub-Saharan Africa,34,26,30.0
+147,Gambia,Sub-Saharan Africa,34,26,30.0
+95,El Salvador,Americas,22,36,29.0
+103,Thailand,Asia Pacific,22,35,28.5
+109,Egypt,Middle East and North Africa,22,34,28.0
+108,Algeria,Middle East and North Africa,22,34,28.0
+117,Tanzania,Sub-Saharan Africa,22,32,27.0
+120,Ecuador,Americas,22,31,26.5
+124,Paraguay,Americas,22,30,26.0
+122,Honduras,Americas,22,30,26.0
+164,Eritrea,Sub-Saharan Africa,34,18,26.0
+135,Guatemala,Americas,22,28,25.0
+137,Papua New Guinea,Asia Pacific,22,28,25.0
+140,Nigeria,Sub-Saharan Africa,22,28,25.0
+139,Lebanon,Middle East and North Africa,22,28,25.0
+138,Kyrgyzstan,Europe and Central Asia,22,28,25.0
+136,Myanmar,Asia Pacific,22,28,25.0
+141,Guinea,Sub-Saharan Africa,22,27,24.5
+143,Mozambique,Sub-Saharan Africa,22,27,24.5
+142,Mauritania,Sub-Saharan Africa,22,27,24.5
+144,Nicaragua,Americas,22,26,24.0
+145,Bangladesh,Asia Pacific,22,26,24.0
+148,Kenya,Sub-Saharan Africa,22,26,24.0
+151,Uganda,Sub-Saharan Africa,22,25,23.5
+150,Tajikistan,Europe and Central Asia,22,25,23.5
+153,Turkmenistan,Europe and Central Asia,22,22,22.0
+154,Zimbabwe,Sub-Saharan Africa,22,22,22.0
+155,Cambodia,Asia Pacific,22,21,21.5
+156,Uzbekistan,Europe and Central Asia,22,21,21.5
+157,The Democratic Republic of Congo,Sub-Saharan Africa,22,21,21.5
+161,Chad,Sub-Saharan Africa,22,20,21.0
+162,Republic of Congo,Sub-Saharan Africa,22,20,21.0
+158,Haiti,Americas,22,20,21.0
+159,Burundi,Sub-Saharan Africa,22,20,21.0
+163,Angola,Sub-Saharan Africa,22,18,20.0
+165,Venezuela,Americas,22,17,19.5
+167,Guinea-Bissau,Sub-Saharan Africa,22,16,19.0
+171,Sudan,Sub-Saharan Africa,22,14,18.0
+160,Central African Republic,Sub-Saharan Africa,10,20,15.0
+166,Iraq,Middle East and North Africa,10,17,13.5
+168,Afghanistan,Asia Pacific,10,15,12.5
+169,Libya,Middle East and North Africa,10,14,12.0
+170,Yemen,Middle East and North Africa,10,14,12.0
+172,Syria,Middle East and North Africa,10,13,11.5
+173,Korea (North),Asia Pacific,10,12,11.0
+174,South Sudan,Sub-Saharan Africa,10,11,10.5
+175,Somalia,Sub-Saharan Africa,10,10,10.0
